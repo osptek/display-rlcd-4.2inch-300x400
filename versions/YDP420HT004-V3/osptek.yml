@@ -1,0 +1,10 @@
+id: YDP420HT004-V3
+category: displays
+size: "4.2"
+panel: rlcd
+resolution: 300x400
+interface: [spi]
+driver: ST7305
+touch: FT3269
+outline: null
+active_area: null

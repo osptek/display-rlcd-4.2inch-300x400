@@ -1,0 +1,11 @@
+idf_component_register(SRCS "main.c"
+                            "demo/board_lcd_demo.c"
+                            "demo/board_number_demo.c"
+                            "demo/board_ui_draw.c"
+                            "demo/board_touch_demo.c"
+                            "init/board_lcd.c"
+                            "init/board_touch.c"
+                            "ft3269_touch/ft3269_touch.c"
+                            "st7305_lcd/st7305_lcd.c"
+                    INCLUDE_DIRS "." "pins" "demo" "init" "ft3269_touch" "st7305_lcd"
+                    REQUIRES driver esp_driver_gpio esp_driver_i2c esp_driver_spi)
