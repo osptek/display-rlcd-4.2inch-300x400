@@ -54,14 +54,21 @@
       <sub>ST7305 · SPI · 触摸 — · <a href="./versions/YDP420H001-V3/">完整资料 →</a></sub>
     </td>
     <td align="center" width="50%">
+      <a href="./versions/YDP420H004-V3/"><img alt="YDP420H004-V3" src="./versions/YDP420H004-V3/images/product.png" width="400" /></a>
+      <br>
+      <b>YDP420H004-V3</b>
+      <br>
+      <sub>ST7305 · SPI · 触摸 — · <a href="./versions/YDP420H004-V3/">完整资料 →</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="./versions/YDP420H005-V3/"><img alt="YDP420H005-V3" src="./versions/YDP420H005-V3/images/product.png" width="400" /></a>
       <br>
       <b>YDP420H005-V3</b>
       <br>
       <sub>ST7306 · SPI · 触摸 — · <a href="./versions/YDP420H005-V3/">完整资料 →</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="./versions/YDP420HT004-V3/"><img alt="YDP420HT004-V3" src="./versions/YDP420HT004-V3/images/product.png" width="400" /></a>
       <br>
@@ -69,7 +76,6 @@
       <br>
       <sub>ST7305 · SPI · 触摸 FT3269 · <a href="./versions/YDP420HT004-V3/">完整资料 →</a></sub>
     </td>
-    <td></td>
   </tr>
 </table>
 
@@ -78,6 +84,7 @@
 | 版本 | 驱动 IC | 触摸驱动 | 接口 | |
 | :--- | :--- | :--- | :--- | :--- |
 | YDP420H001-V3 | ST7305 | — | SPI | [完整资料](./versions/YDP420H001-V3/) |
+| YDP420H004-V3 | ST7305 | — | SPI | [完整资料](./versions/YDP420H004-V3/) |
 | YDP420H005-V3 | ST7306 | — | SPI | [完整资料](./versions/YDP420H005-V3/) |
 | YDP420HT004-V3 | ST7305 | FT3269 | SPI | [完整资料](./versions/YDP420HT004-V3/) |
 

@@ -54,14 +54,21 @@ Repo id: `display-rlcd-4.2inch-300x400`
       <sub>ST7305 · SPI · Touch — · <a href="./versions/YDP420H001-V3/">Full docs →</a></sub>
     </td>
     <td align="center" width="50%">
+      <a href="./versions/YDP420H004-V3/"><img alt="YDP420H004-V3" src="./versions/YDP420H004-V3/images/product.png" width="400" /></a>
+      <br>
+      <b>YDP420H004-V3</b>
+      <br>
+      <sub>ST7305 · SPI · Touch — · <a href="./versions/YDP420H004-V3/">Full docs →</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="./versions/YDP420H005-V3/"><img alt="YDP420H005-V3" src="./versions/YDP420H005-V3/images/product.png" width="400" /></a>
       <br>
       <b>YDP420H005-V3</b>
       <br>
       <sub>ST7306 · SPI · Touch — · <a href="./versions/YDP420H005-V3/">Full docs →</a></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="./versions/YDP420HT004-V3/"><img alt="YDP420HT004-V3" src="./versions/YDP420HT004-V3/images/product.png" width="400" /></a>
       <br>
@@ -69,7 +76,6 @@ Repo id: `display-rlcd-4.2inch-300x400`
       <br>
       <sub>ST7305 · SPI · Touch FT3269 · <a href="./versions/YDP420HT004-V3/">Full docs →</a></sub>
     </td>
-    <td></td>
   </tr>
 </table>
 
@@ -78,6 +84,7 @@ Repo id: `display-rlcd-4.2inch-300x400`
 | Version | Driver IC | Touch IC | Interface | |
 | :--- | :--- | :--- | :--- | :--- |
 | YDP420H001-V3 | ST7305 | — | SPI | [Full docs](./versions/YDP420H001-V3/) |
+| YDP420H004-V3 | ST7305 | — | SPI | [Full docs](./versions/YDP420H004-V3/) |
 | YDP420H005-V3 | ST7306 | — | SPI | [Full docs](./versions/YDP420H005-V3/) |
 | YDP420HT004-V3 | ST7305 | FT3269 | SPI | [Full docs](./versions/YDP420HT004-V3/) |
 
