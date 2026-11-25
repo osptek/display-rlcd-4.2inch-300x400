@@ -77,6 +77,16 @@ Repo id: `display-rlcd-4.2inch-300x400`
       <sub>ST7305 · SPI · Touch FT3269 · <a href="./versions/YDP420HT004-V3/">Full docs →</a></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./versions/YDP420HT005-V3/"><img alt="YDP420HT005-V3" src="./versions/YDP420HT005-V3/images/product.png" width="400" /></a>
+      <br>
+      <b>YDP420HT005-V3</b>
+      <br>
+      <sub>ST7306 · SPI · Touch FT3269 · <a href="./versions/YDP420HT005-V3/">Full docs →</a></sub>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <sub>
@@ -87,6 +97,7 @@ Repo id: `display-rlcd-4.2inch-300x400`
 | YDP420H004-V3 | ST7305 | — | SPI | [Full docs](./versions/YDP420H004-V3/) |
 | YDP420H005-V3 | ST7306 | — | SPI | [Full docs](./versions/YDP420H005-V3/) |
 | YDP420HT004-V3 | ST7305 | FT3269 | SPI | [Full docs](./versions/YDP420HT004-V3/) |
+| YDP420HT005-V3 | ST7306 | FT3269 | SPI | [Full docs](./versions/YDP420HT005-V3/) |
 
 </sub>
 
