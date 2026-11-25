@@ -46,8 +46,6 @@
 | Datasheet | [`ST7306_V0.1.pdf`](./datasheets/ST7306_V0.1.pdf) |
 | Datasheet | [`YDP420H005-V3.pdf`](./datasheets/YDP420H005-V3.pdf) |
 | CAD file | [`YDP420H005-V3.dwg`](./cad/YDP420H005-V3.dwg) |
-| CAD file | [`YDP420H005-V3_厂内.dwg`](./cad/YDP420H005-V3_%E5%8E%82%E5%86%85.dwg) |
-| CAD file | [`YDP420H005-V3_外形图.pdf`](./cad/YDP420H005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
 
 ## Repository layout
 

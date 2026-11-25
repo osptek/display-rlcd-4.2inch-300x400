@@ -46,8 +46,6 @@
 | 规格文档 | [`ST7306_V0.1.pdf`](./datasheets/ST7306_V0.1.pdf) |
 | 规格文档 | [`YDP420H005-V3.pdf`](./datasheets/YDP420H005-V3.pdf) |
 | CAD 图纸 | [`YDP420H005-V3.dwg`](./cad/YDP420H005-V3.dwg) |
-| CAD 图纸 | [`YDP420H005-V3_厂内.dwg`](./cad/YDP420H005-V3_%E5%8E%82%E5%86%85.dwg) |
-| CAD 图纸 | [`YDP420H005-V3_外形图.pdf`](./cad/YDP420H005-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
 
 ## 仓库结构
 
