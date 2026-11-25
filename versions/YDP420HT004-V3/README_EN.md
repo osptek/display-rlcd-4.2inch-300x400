@@ -31,8 +31,8 @@
 | Size | 4.2 inch |
 | Type | RLCD |
 | Resolution | 300×400 |
-| Outline | — |
-| Active area | — |
+| Outline | 73.60 x 100.20 x 1.79 mm |
+| Active area | 63.6 x 84.8 mm |
 | Interface | SPI |
 | Driver IC | ST7305 |
 | Touch IC | FT3269 |
@@ -45,6 +45,7 @@
 | ---- | ---- |
 | Datasheet | [`HSD 4.2” 300x400 Mono_转图说明.pdf`](./datasheets/HSD%204.2%E2%80%9D%20300x400%20Mono_%E8%BD%AC%E5%9B%BE%E8%AF%B4%E6%98%8E.pdf) |
 | Datasheet | [`ST7305_V1.2.pdf`](./datasheets/ST7305_V1.2.pdf) |
+| Datasheet | [`YDP420HT004-V3.pdf`](./datasheets/YDP420HT004-V3.pdf) |
 | CAD file | [`YDP420HT004-V3.dwg`](./cad/YDP420HT004-V3.dwg) |
 | CAD file | [`YDP420HT004-V3_外形图.pdf`](./cad/YDP420HT004-V3_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
 | Adapter materials | [`SCH_2.9&4.2TP二合一转接板.pdf`](./adapter/SCH_2.9%264.2TP%E4%BA%8C%E5%90%88%E4%B8%80%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
